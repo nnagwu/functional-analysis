@@ -1,0 +1,8 @@
+# PreText build outputs
+output/
+generated-assets/
+site/
+
+# Python files
+__pycache__/
+.pytest_cache/
